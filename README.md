@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 My name is Maksim Rakitin, I am a [computational scientist](https://www.bnl.gov/staff/mrakitin) at NSLS-II, BNL.
 
 ![mrakitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrakitin&count_private=true&show_icons=true)
+
+![programming language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakitin)
+
+_Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)._
