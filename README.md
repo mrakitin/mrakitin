@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Max Rakitin, I am a [computational scientist](https://www.bnl.gov/staff/mrakitin) at NSLS-II, BNL.
+My name is Max Rakitin, I am a [computational scientist](https://www.bnl.gov/staff/mrakitin) and the Data Acquisition & Detectors Group Leader at NSLS-II, BNL.
